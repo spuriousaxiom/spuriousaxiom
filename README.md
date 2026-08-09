@@ -1,6 +1,5 @@
-## By J
+## By J, trying to contribute and improve
 
-## Trying to contribute and improve
 
 ## Currently working on:
 ##-
